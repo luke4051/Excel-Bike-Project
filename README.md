@@ -1,5 +1,5 @@
 # Background
-With my intrigue in active living, I decided to analyze a bicycle purchasers dataset and what the factors that go into someone buying a bike vs not.
+With my intrigue in active living, I decided to analyze a bicycle purchasers dataset and  the factors that go into buying a bike vs not.
 
 # Questions I wanted to answer through my Excel dashboard were:
 
