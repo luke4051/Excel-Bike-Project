@@ -1,15 +1,15 @@
-# **Worldwide Bike Sales Analysis** #
+# **Worldwide Bike Sales Analysis** 
 
-# Background
+## Background
 With my intrigue in active living, I decided to analyze a bicycle purchasers dataset and  the factors that go into buying a bike vs not.
 
-# Questions I wanted to answer through my Excel dashboard were:
+## Questions I wanted to answer through my Excel dashboard were:
 
 1. How does income effect bike purchase decisions?
 2. How does age effect bike purchases?
 3. How does commute distance effect bike purchases?
 
-# My Analysis
+## My Analysis
 
 1.
 <img width="346" alt="image" src="https://github.com/luke4051/Excel-Projects/assets/168036749/b674e778-46a4-4bc2-8566-1f4eb5b06947">
@@ -24,6 +24,6 @@ When analyzing the age categories, the middle age people are buying bikes more o
 
 Bike purchases are consistently elevated for people commuting less than 1 mile to work, but between 1 and 10 miles, there is significant variety based on region. Bikes appear more common for long distance commuters in the Pacific while Europe tends to buy less the longer the commute. North America seems to be a balance outcome between the two regions, staying steady up to 5 miles commute distance then dropping off in sales beyond that.
 
-# Complete Dashboard
+## Complete Dashboard
 
 ![image](https://github.com/luke4051/Excel-Projects/assets/168036749/e50ac250-4e80-491d-82b9-8aede57072e3)
