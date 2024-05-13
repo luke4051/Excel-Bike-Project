@@ -1,3 +1,5 @@
+# **Worldwide Bike Sales Analysis** #
+
 # Background
 With my intrigue in active living, I decided to analyze a bicycle purchasers dataset and  the factors that go into buying a bike vs not.
 
