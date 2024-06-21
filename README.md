@@ -18,7 +18,7 @@ Based on the chart generated, both men and women who purchase bikes make about $
 
 <img width="363" alt="image" src="https://github.com/luke4051/Excel-Projects/assets/168036749/8f035d9d-c220-422c-8234-f1af93b2127d">
 
-When analyzing the age categories, the middle age people are buying bikes more often than not, as 388 people in this age range said yes to buying a bike compared to 331 who said no. Contrastingly, the adolecent and old categories both indicate more no's than yes's to buying a bike. Based on the quantity of bikes sold and being a receptive age group, marketing to middle age people could be the most lucrative opportunity.
+When analyzing the age categories, the middle age people are buying bikes more often than not, as 388 people in this age range said yes to buying a bike compared to 331 who said no. Contrastingly, the adolecent and old categories both indicate a rate of purchase less than 50%. Based on the quantity of bikes sold and being a receptive age group, marketing to middle age people could be the most lucrative opportunity.
 
 <img width="715" alt="image" src="https://github.com/luke4051/Excel-Projects/assets/168036749/f1f43537-8055-4d5b-859b-c8ff7e27d2d4">
 
