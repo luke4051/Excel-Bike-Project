@@ -22,7 +22,7 @@ When analyzing the age categories, the middle age people are buying bikes more o
 
 <img width="715" alt="image" src="https://github.com/luke4051/Excel-Projects/assets/168036749/f1f43537-8055-4d5b-859b-c8ff7e27d2d4">
 
-Bike purchases are consistently elevated for people commuting less than 1 mile to work, but between 1 and 10 miles, there is significant variety based on region. Bikes appear more common for long distance commuters in the Pacific while Europe tends to buy less the longer the commute. North America seems to be a balance outcome between the two regions, staying steady up to 5 miles commute distance then dropping off in sales beyond that.
+Bike purchases are consistently elevated for people commuting less than 1 mile to work, but between 1 and 10 miles, there is significant variation based on region. Bikes appear more common for long distance commuters in the Pacific while Europe tends to buy fewer bikes the longer the commute. North America seems to be a balance outcome between the two regions, staying steady up to 5 miles commute distance then dropping off in sales beyond that.
 
 ## Complete Dashboard
 
